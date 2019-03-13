@@ -1,0 +1,8 @@
+如何使用ng2-stomp-service连接rabbitmq
+
+https://stomp-js.github.io/ng2-stompjs/index.html
+https://github.com/stomp-js/ng2-stompjs-demo
+
+注意：app.module.ts中的url为rabbitmq的地址，开头结尾用ws
+      订阅和发送需要地址一样，/topic/，，，，
+
